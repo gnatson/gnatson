@@ -4,7 +4,7 @@
 
 ### 📦 Stack Jungle
 
-`react` `vuejs` `🟠 Svelte` `🟡 JavaScript` `mongodb` `axios` `🟠 SvelteKit` `...`
+`react` `vuejs` `🟠 Svelte` `🟡 JavaScript` `mongodb` `axios` `🟠 SvelteKit` `⚫ Electron` `...`
 
 ### ✌ Approach to life
 
