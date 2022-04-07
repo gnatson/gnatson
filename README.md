@@ -37,4 +37,8 @@
   <img src="https://komarev.com/ghpvc/?username=gnatson" alt="page views" />
 </a>
 
-![image](https://user-images.githubusercontent.com/51968463/162330271-6719c04b-5b31-4838-b387-a9fe494423e6.png)
+### 📌 Pinned repos
+
+<a href="https://gist.github.com/gnatson/abefb54a352437f004fdc12c4ab0a3fa">
+  <img src="https://user-images.githubusercontent.com/51968463/162330271-6719c04b-5b31-4838-b387-a9fe494423e6.png"/>
+</a>
