@@ -1,4 +1,4 @@
-**Disclaimer**: `readme.state="todo"` 
+![image](https://user-images.githubusercontent.com/51968463/162327875-8b9bd22e-44aa-439c-812c-5cf41dd11c0f.png)
 
 # 𝓢𝓮𝓫𝓪𝓼𝓽𝓲𝓪𝓷𝓸 as `👨‍💻developer`
 
