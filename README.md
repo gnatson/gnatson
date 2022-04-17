@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/51968463/162327875-8b9bd22e-44aa-439c-812c-5cf41dd11c0f.png)
+![image](https://user-images.githubusercontent.com/51968463/163712120-3fbdfeab-cbab-419e-97e8-f1996094d152.png)
 
 # 𝓢𝓮𝓫𝓪𝓼𝓽𝓲𝓪𝓷𝓸 as `👨‍💻developer`
 
