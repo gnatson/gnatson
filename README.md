@@ -15,3 +15,7 @@
 ## ⭐ Stars page
 
 See my [⭐ Stars page](https://github.com/gnatson?tab=stars) to discover some valuable (or fun) things
+
+![seba cartoon](https://user-images.githubusercontent.com/51968463/188311223-e5fa42ae-5f33-4064-b7b1-859f93756f37.png)
+
+have a good day!
