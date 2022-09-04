@@ -14,4 +14,4 @@
 
 ## ⭐ Stars page
 
-See my ⭐ Stars page to discover some valuable (or fun) things
+See my [⭐ Stars page](https://github.com/gnatson?tab=stars) to discover some valuable (or fun) things
